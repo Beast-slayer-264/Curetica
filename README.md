@@ -1,2 +1,2 @@
 # Curetica
-A online doctor consultation platform
+A online doctor consultation platform for patients
